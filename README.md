@@ -107,7 +107,7 @@ O arquivo `.srt` será salvo no mesmo diretório do JSON.
 
 ## Ferramenta Complementar Recomendada
 
-Para ajustes finos nas legendas geradas (correção de texto, sincronização manual, etc.), é altamente recomendado utilizar o **[Subtitle Edit](https://nikse.dk/subtitleedit)** — um editor de legendas gratuito e open-source para Windows.
+Para ajustes finos nas legendas geradas (correção de texto, sincronização manual, etc.), é altamente recomendado utilizar o **[Subtitle Edit](https://subtitleedit.org/)** — um editor de legendas gratuito e open-source para Windows.
 
 Com o Subtitle Edit você pode:
 - Visualizar e editar o `.srt` gerado pelo FastSub.
